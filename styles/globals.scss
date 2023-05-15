@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url("../public/images/bg.png");
+    background-repeat: repeat;
+    background-position: center center;
+    background-position: fixed;
+    background-size: cover;
+}
